@@ -14,3 +14,5 @@ For starters, here are some great links that I referenced when writing the paper
 * https://gitlab.com/dp-stats/dp-stats/tree/master/dp_stats
 
 Normalized data for the project was sourced from <a href="https://github.com/mohamedameen93/German-Traffic-Sign-Classification-Using-TensorFlow">mohammedameen93's excellent repository</a>. Feel free to e-mail me at nathuan329@gmail.com if you have any questions (I will try my best to remember this project and answer them).
+
+Updated: April 7, 2025
